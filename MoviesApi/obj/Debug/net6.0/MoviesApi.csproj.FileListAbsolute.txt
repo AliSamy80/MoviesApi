@@ -1,0 +1,102 @@
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\bin\Debug\net6.0\appsettings.json
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\bin\Debug\net6.0\MoviesApi.exe
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\bin\Debug\net6.0\MoviesApi.deps.json
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\bin\Debug\net6.0\MoviesApi.runtimeconfig.json
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\bin\Debug\net6.0\MoviesApi.dll
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\bin\Debug\net6.0\MoviesApi.pdb
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.csproj.AssemblyReference.cache
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.AssemblyInfoInputs.cache
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.AssemblyInfo.cs
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.csproj.CoreCompileInputs.cache
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\staticwebassets\msbuild.MoviesApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\staticwebassets\msbuild.build.MoviesApi.props
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApi.props
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MoviesApi.props
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\scopedcss\bundle\MoviesApi.styles.css
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.csproj.CopyComplete
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.dll
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\refint\MoviesApi.dll
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.pdb
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.genruntimeconfig.cache
+C:\Users\alisa\source\repos\MoviesApi\MoviesApi\obj\Debug\net6.0\ref\MoviesApi.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\appsettings.Development.json
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\appsettings.json
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\MoviesApi.exe
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\MoviesApi.deps.json
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\MoviesApi.runtimeconfig.json
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\MoviesApi.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\MoviesApi.pdb
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.csproj.AssemblyReference.cache
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.AssemblyInfoInputs.cache
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.AssemblyInfo.cs
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.csproj.CoreCompileInputs.cache
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.MvcApplicationPartsAssemblyInfo.cs
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.MvcApplicationPartsAssemblyInfo.cache
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\staticwebassets\msbuild.MoviesApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\staticwebassets\msbuild.build.MoviesApi.props
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MoviesApi.props
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MoviesApi.props
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\scopedcss\bundle\MoviesApi.styles.css
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.csproj.CopyComplete
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\refint\MoviesApi.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.pdb
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.genruntimeconfig.cache
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\obj\Debug\net6.0\ref\MoviesApi.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Humanizer.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\AutoMapper.dll
+E:\iTi 3 Months Course\للتجربة\Api Projects\MoviesApi\MoviesApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

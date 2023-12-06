@@ -1,0 +1,56 @@
+﻿
+using MoviesApi.Services;
+
+namespace MoviesApi.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
+    public class GenresController : ControllerBase
+    {
+        private readonly IGenresService _genresService;
+        public GenresController(IGenresService genresService)
+        {
+            _genresService = genresService;
+        }
+        [HttpGet] 
+        public async Task<IActionResult> GetAllAsync()
+        {
+            var genres = await _genresService.GetAll();
+            return Ok(genres);
+        }
+        [HttpPost]  
+        public async Task<IActionResult> CreateAsync([FromBody] CreateGenreDTO DTO)
+        {
+            var genre = new Genre() { Name = DTO.Name };
+            await _genresService.Add(genre);
+            return Ok(genre);
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateAsync( byte id, [FromBody] CreateGenreDTO DTO)
+        {
+            var genre = await _genresService.GetById(id);
+            if(genre == null)
+            {
+                return NotFound(value: $"No Genre was found with Id : {id}");
+            }
+            genre.Name = DTO.Name;
+            _genresService.Update(genre);
+            return Ok(genre);
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteAsync(byte id)
+        {
+            var genre = await _genresService.GetById(id);
+            if (genre == null)
+            {
+                return NotFound(value: $"No Genre was found with Id : {id}");
+            }
+
+            _genresService.Delete(genre);
+
+            return Ok(genre);
+        }
+    }
+}
